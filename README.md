@@ -7,23 +7,25 @@
 - 深度學習
     - 物件偵測
     - 物件切割
-    - 關鍵點偵測<br>
-  
-
+    - 關鍵點偵測
+<br>
+<br>
 - 影像處理
     - 移動物件處理(幀差法與進階應用)
-    - 相機校正(魚眼鏡頭、深度資訊估算)<br>
-
-
+    - 相機校正(魚眼鏡頭、深度資訊估算)
+<br>
+<br>
 - 邊緣裝置運算
     - Nvidia Jetson series (Jetson Nano ...)
-
-
+<br>
+<br>
 - 模型輕量化
   - 輕量化模型設計
   - 運用 Nvidia TensorRT 加速
   - 知識蒸餾 (Knowledge distillation)
-
+<br>
+<br>
+    
 # 作品集
 
 --- 

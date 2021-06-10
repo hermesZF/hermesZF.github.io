@@ -19,23 +19,36 @@
 
 **系統架構：**
 
-![image](pic/system.png)
+![image](pic/system_border.png)
+
+<br>
 
 **桌球移動路徑追蹤 (gif動圖)：**
 
 ![image](gif/video_record.gif)
 
+<br>
+
 **物件分割結果 (左紅色為傳統影像處理，以HSV閥值進行分割；右藍色為CNN分割模型預測結果)：**
 
 ![image](pic/hsv_cnn.png)
+
+<br>
+
 
 **3D軌跡還原 (gif動圖)：**
 
 ![image](gif/3d_trace.gif)
 
-**系統GUI介紹：**
+<br>
 
-![image](pic/GUI_demo.png)
+
+**系統GUI：**
+
+![image](pic/GUI_demo_border.png)
+
+<br>
+
 
 ---
 
