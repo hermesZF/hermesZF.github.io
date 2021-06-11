@@ -3,10 +3,6 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: false
 
-page:
-  title: hermesZF
-  description: Description
 
-site:
-  title: portfolio
-  description: Description
+title: portfolio
+description: Description
