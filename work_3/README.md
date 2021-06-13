@@ -59,7 +59,7 @@ Q-learning 透過事先定義車子與物件互動後的加扣分，從而督促
         <td width="385px">
             <b>描 述 與 說 明</b><br>
         </td>
-        <td align="center" width="200px">
+        <td align="center" >
             <b>影 像 展 示 ( gif 動 圖 )</b><br>
         </td>
     </tr>
@@ -75,7 +75,7 @@ Q-learning 透過事先定義車子與物件互動後的加扣分，從而督促
         </td>
     </tr>
     <tr>
-        <td align="center" width="120px">
+        <td align="center">
             學習中期<br>
         </td>
         <td width="385px">
@@ -92,7 +92,7 @@ Q-learning 透過事先定義車子與物件互動後的加扣分，從而督促
         <td width="385px">
             車子找到幾近最佳通往終點的路徑，在盡量避免扣分的情況下，以最短路徑前往終點。<br>
         </td>
-        <td align="center" width="200px">
+        <td align="center">
             <img src="gif/stage_3.gif" width="300" height="300"><br>
         </td>
     </tr>
