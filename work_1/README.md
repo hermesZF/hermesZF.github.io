@@ -6,12 +6,8 @@
 
 ---
 
+### 站內連結：
 <table>
-<tr>
-    <td colspan="5" align="center">
-        <b>站 內 連 結</b><br>
-    </td>
-</tr>
 <tr>
     <td width="140" align="center">
         <a href="../">首頁與作品預覽</a><br>
@@ -33,7 +29,6 @@
 <br>
 
 ---
-
 
 ## 作品簡介：
 
