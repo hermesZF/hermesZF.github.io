@@ -7,13 +7,11 @@
 ---
 
 <table>
-
 <tr>
     <td colspan="5" align="center">
         <b>站 內 連 結</b><br>
     </td>
 </tr>
-
 <tr>
     <td width="140" align="center">
         <a href="../">首頁與作品預覽</a><br>
@@ -30,9 +28,9 @@
         <a href="../work_4/">音樂歌手辨識</a><br>
     </td>
 </tr>
-
 </table>
 
+<br>
 
 ---
 
