@@ -61,9 +61,10 @@ Q-learning 透過事先定義車子與物件互動後的加扣分，從而督促
 
 ---
 
-### 快速連結
-  - #### [首頁與作品集目錄](../README.md)
-      - [1. 運用人工智慧之單相機桌球3D軌跡還原系統](../work_1/README.md)
-      - [2. 前視角智慧桌球系統](../work_2/README.md)
-      - [3. 強化學習之模擬避障](../work_3/README.md)
-      - [4. 音樂歌手辨識](../work_4/README.md)
+<table >
+    <tr>
+        <td align="center" width="120px">
+            <a href="#強化學習之模擬避障">回到頂部</a><br>
+        </td>
+    </tr>
+</table>

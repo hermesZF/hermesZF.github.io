@@ -97,14 +97,15 @@
 大多情況下，包含軌跡有斷點或畫面有雜訊，深度神經網路都能預測準確。
 
 ![image](pic/results.png)
-
+    
 <br>
 
 ---
 
-### 快速連結
-  - #### [首頁與作品集目錄](../README.md)
-      - [1. 運用人工智慧之單相機桌球3D軌跡還原系統](../work_1/README.md)
-      - [2. 前視角智慧桌球系統](../work_2/README.md)
-      - [3. 強化學習之模擬避障](../work_3/README.md)
-      - [4. 音樂歌手辨識](../work_4/README.md)
+<table >
+    <tr>
+        <td align="center" width="120px">
+            <a href="#前視角智慧桌球系統">回到頂部</a><br>
+        </td>
+    </tr>
+</table>
