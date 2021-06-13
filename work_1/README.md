@@ -106,10 +106,10 @@ GUI可以顯示包含2D影像畫面、3D軌跡圖與方便使用者拖拉影片�
 
 <br>
 
-
 ---
 
-<table style="width:1000px" align="right">
+
+<table align="right">
     <tr>
         <td align="center" width="120px">
             <a href="#運用人工智慧之單相機桌球3d軌跡還原">回到頂部</a><br>
