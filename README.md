@@ -51,7 +51,7 @@
   - 關鍵字： `深度學習` `影像處理` `相機校正` `3D預測`
   - 預覽圖：
     
-    ![image](work_1/gif/snapshot.gif)
+    ![image](work_1/gif/snapshot_work1.gif)
     
 
 - ### 2. 前視角智慧桌球系統&emsp;[&lt;介紹連結&gt;](work_2/README.md)
@@ -59,17 +59,22 @@
   - 關鍵字： `深度學習` `影像處理` `邊緣裝置運算` `幀差累積法`
   - 預覽圖：
     
-    ![image](work_2/gif/shapshot.png)
+    ![image](work_2/gif/snapshot_work2.png)
     
 
 - ### 3. 強化學習之模擬避障&emsp;[&lt;介紹連結&gt;](work_3/README.md)
   - 性質： 自我學習題目
   - 關鍵字： `強化學習`
+  - 預覽圖：
+    
+    ![image](work_3/gif/snapshot_work3.gif)
   
 - ### 4. 音樂歌手辨識&emsp;[&lt;介紹連結&gt;](work_4/README.md)
   - 性質： 大學課程專題
   - 關鍵字： `深度學習` `聲音訊號處理`
-  
+  - 預覽圖：
+    
+    ![image](work_4/pic/snapshot_work4.png){:height="350px" width="700px"}
 ---
 
 ### 快速連結
