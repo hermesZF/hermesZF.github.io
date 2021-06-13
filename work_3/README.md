@@ -4,12 +4,29 @@
 
 ---
 
-### 快速連結
-  - #### [首頁與作品集目錄](../README.md)
-      - [1. 運用人工智慧之單相機桌球3D軌跡還原系統](../work_1/README.md)
-      - [2. 前視角智慧桌球系統](../work_2/README.md)
-      - [3. 強化學習之模擬避障](../work_3/README.md)
-      - [4. 音樂歌手辨識](../work_4/README.md)
+### 站內連結：
+
+<table style="width:1000px">
+    <tr>
+        <td align="center" width="165px">
+            <a href="../">首頁與預覽</a><br>
+        </td>
+        <td align="center" width="165px">
+            <a href="../work_1/">桌球3D軌跡<br>還原系統</a><br>
+        </td>
+        <td align="center" width="165px">
+            <a href="../work_2/">前視角智慧<br>桌球系統</a><br>
+        </td>
+        <td align="center" width="165px">
+            <a href="../work_3/"><b>強化學習之<br>模擬避障</b></a><br>
+        </td>
+        <td align="center" width="165px">
+            <a href="../work_4/">音樂歌手辨識</a><br>
+        </td>
+    </tr>
+</table>
+
+<br>
 
 ---
 
