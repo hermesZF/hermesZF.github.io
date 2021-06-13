@@ -59,7 +59,7 @@ Q-learning 透過事先定義車子與物件互動後的加扣分，從而督促
         <td width="385px">
             <b>描 述 與 說 明</b><br>
         </td>
-        <td align="center" >
+        <td align="center">
             <b>影 像 展 示 ( gif 動 圖 )</b><br>
         </td>
     </tr>
@@ -70,18 +70,18 @@ Q-learning 透過事先定義車子與物件互動後的加扣分，從而督促
         <td width="385px">
             車子尚未學習到行動與加扣分的關聯，到處橫衝直撞，漫無目的到處亂跑。<br>
         </td>
-        <td align="center" width="200px">
+        <td align="center">
             <img src="gif/stage_1.gif" width="300" height="300"><br>
         </td>
     </tr>
     <tr>
-        <td align="center">
+        <td align="center" width="120px">
             學習中期<br>
         </td>
         <td width="385px">
             車子已學會不要去撞路樹從而避免大量扣分(撞樹-10分)，但還沒有學到前往終點的最佳路徑，在區域內來回徘徊不前。<br>
         </td>
-        <td align="center" width="200px">
+        <td align="center">
             <img src="gif/stage_2.gif" width="300" height="300"><br>
         </td>
     </tr>
