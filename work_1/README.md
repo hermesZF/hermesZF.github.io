@@ -4,8 +4,29 @@
 
 ---
 
-| 首頁與作品預覽 | 桌球3D軌跡還原系統 | 前視角智慧桌球系統 | 強化學習之模擬避障 | 音樂歌手辨識 |
-| ---{:width="140px"} | ---{:width="140px"} | ---{:width="140px"} | ---{:width="140px"} | ---{:width="140px"} |
+<table>
+<tr>
+    <td colspan="5" > <b>快速連結</b> </td>
+</tr>
+
+<tr>
+    <td width="160" align="center">
+        <a href="../README.md">首頁與作品預覽</a><br>
+    </td>
+    <td width="160" align="center">
+        <a href="../work1/README.md">桌球3D軌跡還原系統</a><br>
+    </td>
+    <td width="160" align="center">
+        <a href="../work2/README.md">前視角智慧桌球系統</a><br>
+    </td>
+    <td width="160" align="center">
+        <a href="../work3/README.md">強化學習之模擬避障</a><br>
+    </td>
+    <td width="160" align="center">
+        <a href=."./work4/README.md">音樂歌手辨識</a><br>
+    </td>
+</tr>
+</table>
 
 ---
 
