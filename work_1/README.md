@@ -8,7 +8,7 @@
 
 ### 站內連結：
 
-<table style="width:700px">
+<table style="width:1000px">
     <tr>
         <td align="center">
             <a href="../">首 頁 與 預 覽</a><br>
