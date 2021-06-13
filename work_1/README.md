@@ -2,17 +2,22 @@
 
 ## 關鍵字： `深度學習` `影像處理` `相機校正` `3D預測`
 
+<br>
+
 ---
 
-
 <table>
+<tr>
+    <td colspan="5" align="center">
+        <b>站 內 連 結</b><br>
+    </td>
+</tr>
 <tr>
     <td width="140" align="center">
         <a href="../">首頁與作品預覽</a><br>
     </td>
     <td width="140" align="center">
         <a href="../work_1/">桌球3D軌跡<br>還原系統</a><br>
-    </td>
     <td width="140" align="center">
         <a href="../work_2/">前視角智慧<br>桌球系統</a><br>
     </td>
@@ -24,8 +29,6 @@
     </td>
 </tr>
 </table>
-
-<br>
 
 ---
 
