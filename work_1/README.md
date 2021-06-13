@@ -8,7 +8,7 @@
 
 ### 站內連結：
 
-<table width="100%" style="table-layout:fixed">
+<table width="700" style="table-layout:fixed">
     <tr>
         <td align="center">
             <a href="../">首頁與作品預覽</a><br>
