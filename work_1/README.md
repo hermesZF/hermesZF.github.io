@@ -8,25 +8,27 @@
 
 ### 站內連結：
 
-<table>
+<table width="100%" style="table-layout:fixed">
     <tr>
-        <td width="140" align="center">
+        <td align="center">
             <a href="../">首頁與作品預覽</a><br>
         </td>
-        <td width="140" align="center">
-            <a href="../work_1/">桌球3D軌跡<br>還原系統</a><br>
+        <td align="center">
+            <a href="../work_1/"><b>桌球3D軌跡<br>還原系統</b></a><br>
         </td>
-        <td width="140" align="center">
+        <td align="center">
             <a href="../work_2/">前視角智慧<br>桌球系統</a><br>
         </td>
-        <td width="140" align="center">
+        <td align="center">
             <a href="../work_3/">強化學習之<br>模擬避障</a><br>
         </td>
-        <td width="140" align="center">
+        <td align="center">
             <a href="../work_4/">音樂歌手辨識</a><br>
         </td>
     </tr>
 </table>
+
+<br>
 
 ---
 
